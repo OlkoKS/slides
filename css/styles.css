@@ -1,0 +1,14 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: rgb(238, 220, 54);
+}
+
+.slick-prev:before {
+  content: "←";
+}
+.slick-prev:before,
+.slick-next:before {
+  color: rgb(25, 112, 224);
+  font-size: 65px;
+}
